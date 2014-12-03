@@ -1,1 +1,7 @@
+<<<< HEAD
+something new is best
+
 something not new ??? editing this file
+=============
+something new ... editing this file
+>>>>>>> 9ce63b6f7f3fa91e57c43910f75d22584bb8945b
